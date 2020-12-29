@@ -1,0 +1,27 @@
+.header {
+    background-color: aquamarine;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+}
+
+#about-me {
+    background-color: blanchedalmond;
+
+}
+
+#grace {
+    background-color: rgb(164, 255, 177);
+    float: left;
+    width: 50%;
+}
+
+#titus {
+    background-color: tan;
+    float: right;
+    width: 50%;
+}
+
+.footer {
+    background-color: aquamarine
+}
