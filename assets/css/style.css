@@ -1,3 +1,9 @@
-#headshot {
-    width: 200px;
+body {
+    background: url(https://images.freeimages.com/images/large-previews/c65/blue-grained-wall-1637575.jpg);
+}
+
+#border {
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
