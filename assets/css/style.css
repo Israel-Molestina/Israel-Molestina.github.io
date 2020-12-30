@@ -4,6 +4,18 @@ body {
 
 #border {
     background-color: whitesmoke;
-    margin-top: 30px;
-    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+
+.fab {
+    color: white;
+}
+
+#headshot {
+    width: 200px;
+}
+
+#holiday {
+    width: 250px;
 }
