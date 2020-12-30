@@ -1,5 +1,6 @@
 body {
-    background: url(https://images.freeimages.com/images/large-previews/c65/blue-grained-wall-1637575.jpg);
+    background: url(../pics/Blue-wall-background.jpg);
+    width: auto;
 }
 
 #border {
@@ -23,8 +24,15 @@ body {
 .header-background {
     background:
         linear-gradient(
-            rgba(0, 0, 0, 0.6),
-            rgba(0, 0, 0, 0.6)
+            rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)
         ),
-        url(assets/pics/header-background.jpg)
+        url(../pics/header-background.jpg);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.header {
+    text-align: center;
+    color: whitesmoke;
 }
