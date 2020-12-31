@@ -1,26 +1,32 @@
+/*sets background image*/
 body {
     background: url(../pics/Blue-wall-background.jpg);
     width: auto;
 }
 
-#border {
+/*sets border around main page content*/
+.border {
     background-color: whitesmoke;
     margin-top: 50px;
     margin-bottom: 90px;
 }
 
+/*sets color of link icons on footer*/
 .fab {
     color: white;
 }
 
+/*sizes headshot on about page*/
 #headshot {
     width: 200px;
 }
 
+/*sizes holiday pitcure*/
 #holiday {
     width: 250px;
 }
 
+/*background pic for header*/
 .header-background {
     background:
         linear-gradient(
@@ -32,6 +38,7 @@ body {
     padding-bottom: 30px;
 }
 
+/*sets parameters for header title*/
 .header {
     text-align: center;
     color: whitesmoke;
