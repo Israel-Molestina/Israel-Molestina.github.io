@@ -43,3 +43,8 @@ body {
     text-align: center;
     color: whitesmoke;
 }
+
+.links-portfolio {
+    color: black;
+    text-decoration: none;
+}
