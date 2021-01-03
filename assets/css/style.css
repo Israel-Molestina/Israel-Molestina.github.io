@@ -45,9 +45,10 @@ body {
 }
 
 /*sets color for links on portfolio page*/
-.links-portfolio {
+.links-portfolio, a:hover {
     color: black;
     text-decoration: none;
+
 }
 
 /*changes padding on form on contact page*/
