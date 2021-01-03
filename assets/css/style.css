@@ -56,16 +56,23 @@ body {
     padding-left: 25px;
 }
 
+/*created space for submit button*/
 .submit {
     padding-bottom: 25px;
 }
 
+/*floats nav to right*/
 #navflex {
     justify-content: flex-end;
 }
 
+/*styles paragraphs*/
 .ubuntu {
     font-family: 'Ubuntu', sans-serif;
 }
 
-
+/*
+.border-top{
+    border-width: thick;
+}
+*/
