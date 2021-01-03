@@ -34,14 +34,14 @@ body {
             rgba(0, 0, 0, 0.4)
         ),
         url(../pics/header-background.jpg);
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 20px;
 }
 
 /*sets parameters for header title*/
 .header {
-    text-align: center;
     color: whitesmoke;
+    font-family: 'Lobster', cursive;
 }
 
 /*sets color for links on portfolio page*/
@@ -63,4 +63,9 @@ body {
 #navflex {
     justify-content: flex-end;
 }
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
 
