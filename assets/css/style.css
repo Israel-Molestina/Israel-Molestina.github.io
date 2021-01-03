@@ -6,7 +6,7 @@ body {
 
 /*sets border around main page content*/
 .border {
-    background-color: whitesmoke;
+    background-color: rgb(231, 230, 230);
     margin-top: 50px;
     margin-bottom: 90px;
 }
