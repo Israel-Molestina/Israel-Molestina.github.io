@@ -43,7 +43,6 @@ body {
 .links-portfolio, a:hover {
     color: black;
     text-decoration: none;
-
 }
 
 /*changes padding on form on contact page*/
@@ -66,5 +65,3 @@ body {
 .ubuntu {
     font-family: 'Ubuntu', sans-serif;
 }
-
-
