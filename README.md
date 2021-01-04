@@ -22,7 +22,7 @@ The screengrab extension I am using for chrome for some reason does not render t
 
 ### [Portfolio](https://israel-molestina.github.io/)
 
-### About Page
+## About Page
 ![Screengrab-of-about-page](assets/pics/portfolio-about-page.png)
 
 ### Portfolio Page
