@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Israel-Molestina/Israel-Molestina.github.io)
 
 ## The Application
-I've created a mobile responsive portfolio webpage to showcase my projects and accomplishments. I used Bootstrap CSS Framework to create this responsive layout, along with my own CSS file for some of the finishing touches. 
+I've created a mobile responsive portfolio website to showcase my projects and accomplishments. I used Bootstrap CSS Framework to create this responsive layout, along with my own CSS file for some of the finishing touches. 
 
 ### Within the application you will find
 * A responsive layout
