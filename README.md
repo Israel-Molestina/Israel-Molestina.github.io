@@ -19,7 +19,7 @@ I've created a mobile responsive portfolio website to showcase my projects and a
 
 ## Below is the link to the finished application along with a screenshot of each page
 ### [Portfolio](https://israel-molestina.github.io/)
-*The screengrab extension I am using for chrome for some reason does not render the footer correctly which is why in the screenshot it appears to be floating. On the actual application the footer sticks to the bottom
+* The screengrab extension I am using for chrome for some reason does not render the footer correctly which is why in the screenshot it appears to be floating. On the actual application the footer sticks to the bottom
 
 ## About Page
 ![Screengrab-of-about-page](assets/pics/portfolio-about-page.png)
