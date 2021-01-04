@@ -10,6 +10,7 @@ body {
     background-color: rgb(231, 230, 230);
     margin-top: 100px;
     margin-bottom: 90px;
+    padding-bottom: 20px;
 }
 
 /*sizes headshot on about page*/
@@ -50,11 +51,6 @@ h1 {
 .contact-form {
     padding-left: 10px;
     padding-right: 10px;
-}
-
-/*created space for submit button*/
-.submit {
-    padding-bottom: 25px;
 }
 
 /*floats nav to right*/
