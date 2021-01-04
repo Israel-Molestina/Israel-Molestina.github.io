@@ -35,7 +35,7 @@ body {
 }
 
 /*sets parameters for header title*/
-.header {
+h1 {
     color: whitesmoke;
     font-family: 'Lobster', cursive;
 }
