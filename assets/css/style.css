@@ -48,7 +48,8 @@ body {
 
 /*changes padding on form on contact page*/
 .contact-form {
-    padding-left: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /*created space for submit button*/
