@@ -25,8 +25,8 @@ The screengrab extension I am using for chrome for some reason does not render t
 ## About Page
 ![Screengrab-of-about-page](assets/pics/portfolio-about-page.png)
 
-### Portfolio Page
+## Portfolio Page
 ![Screengrab-of-portfolio-page](assets/pics/portfolio-page.png)
 
-### Contact Page
+## Contact Page
 ![Screengrab-of-contact-page](assets/pics/portfolio-contact-page.png)
