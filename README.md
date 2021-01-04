@@ -7,8 +7,8 @@ I've created a mobile responsive portfolio webpage to showcase my projects and a
 ### Within the application you will find
 * A responsive layout
 * Responsive images
-* A consistent navbar accross each page
-* Working links within the navbar to the About, Contact and Porfolio pages
+* A consistent navbar across each page
+* Working links within the navbar to the About, Contact and Portfolio pages
 * My personal bio, headshot, social media and projects
 * A sticky header and footer
 
@@ -17,6 +17,7 @@ I've created a mobile responsive portfolio webpage to showcase my projects and a
 * Semantic and valid HTML
 * No use of media queries as Bootstrap has minimized their need
 
-### Below is the link to the finsished application along with a screenshot of each page
+### Below is the link to the finished application along with a screenshot of each page
 
 ### [Portfolio](https://israel-molestina.github.io/)
+
