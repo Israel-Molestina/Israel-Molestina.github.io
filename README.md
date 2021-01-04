@@ -19,4 +19,4 @@ I've created a mobile responsive portfolio webpage to showcase my projects and a
 
 ### Below is the link to the finsished application along with a screenshot of each page
 
-[Portfolio](israel-molestina.github.io)
+[Portfolio](https://israel-molestina.github.io/)
