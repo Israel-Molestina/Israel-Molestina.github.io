@@ -18,6 +18,15 @@ I've created a mobile responsive portfolio webpage to showcase my projects and a
 * No use of media queries as Bootstrap has minimized their need
 
 ### Below is the link to the finished application along with a screenshot of each page
+The screengrab extension I am using for chrome for some reason does not render the footer correctly which is why in the screenshot it appears to be floating. On the actual application the footer sticks to the bottom
 
 ### [Portfolio](https://israel-molestina.github.io/)
 
+### About Page
+![Screengrab-of-about-page](assets/pics/portfolio-about-page.png)
+
+### Portfolio Page
+![Screengrab-of-portfolio-page](assets/pics/portfolio-page.png)
+
+### Contact Page
+![Screengrab-of-contact-page](assets/pics/portfolio-contact-page.png)
