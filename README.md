@@ -17,6 +17,6 @@ I've created a mobile responsive portfolio webpage to showcase my projects and a
 * Semantic and valid HTML
 * No use of media queries as Bootstrap has minimized their need
 
-## Below is the link to the finsished application along with a screenshot of each page
+### Below is the link to the finsished application along with a screenshot of each page
 
-[Portfolio](israel-molestina.github.io/)
+### [Portfolio](israel-molestina.github.io/)
