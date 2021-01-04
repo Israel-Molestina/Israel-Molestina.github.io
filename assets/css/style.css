@@ -63,6 +63,7 @@ h1 {
     font-family: 'Ubuntu', sans-serif;
 }
 
+/*makes contact form appear in middle of the page*/
 #border-contact {
     background-color: rgb(231, 230, 230);
     position: fixed;
