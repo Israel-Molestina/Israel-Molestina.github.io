@@ -13,6 +13,11 @@ body {
     padding-bottom: 20px;
 }
 
+.card-background {
+    background-color: rgb(231, 230, 230);
+    border: none;
+}
+
 /*sizes headshot on about page*/
 #headshot {
     width: 200px;
